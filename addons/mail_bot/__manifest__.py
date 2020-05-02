@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'OdooBot',
+    'name': 'Dajalvo bot',
     'version': '1.0',
     'category': 'Discuss',
     'summary': 'Add OdooBot in discussions',
