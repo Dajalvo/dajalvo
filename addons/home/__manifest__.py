@@ -2,14 +2,15 @@
 {
     'name': 'Home',
     'category': 'Tools',
-    'summary': 'Centralize your address book',
+    'summary': 'Permite la bandeja de inicio por defecto',
     'description': """
-This module gives you a quick view of your contacts directory, accessible from your home page.
-You can track your vendors, customers and other contacts.
-""",
-    'depends': ['base', 'mail'],
+        Este módulo permite establecer la bandeja de inicio por defecto de la plataforma.
+    """,
+    'depends': ['base'],
     'data': [
-        'views/contact_views.xml',
+        'views/views.xml',
+        'views/templates.xml',
     ],
     'application': True,
+    'auto_install': True,
 }
