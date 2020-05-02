@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from odoo import http
 
- class Home(http.Controller):
+ class home(http.Controller):
      @http.route('/home/home/', auth='public')
      def index(self, **kw):
          return "Hello, world"
