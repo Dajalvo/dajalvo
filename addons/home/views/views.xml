@@ -1,7 +1,6 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
-    <!--
+
     <record model="ir.ui.view" id="home.list">
       <field name="name">home list</field>
       <field name="model">home.home</field>
@@ -13,16 +12,12 @@
         </tree>
       </field>
     </record>
-    -->
 
-    <!-- actions opening views on models -->
-    <!--
     <record model="ir.actions.act_window" id="home.action_window">
-      <field name="name">home window</field>
+      <field name="name">Inicio</field>
       <field name="res_model">home.home</field>
       <field name="view_mode">tree,form</field>
     </record>
-    -->
 
     <!-- server action to the one above -->
     <!--
