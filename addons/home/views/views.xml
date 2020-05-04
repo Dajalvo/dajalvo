@@ -1,6 +1,6 @@
 <odoo>
   <data>
-
+<!--
     <record model="ir.ui.view" id="home.list">
       <field name="name">home list</field>
       <field name="model">home.home</field>
@@ -12,7 +12,7 @@
         </tree>
       </field>
     </record>
-
+    -->
     <record model="ir.actions.act_window" id="home.action_window">
       <field name="name">Inicio</field>
       <field name="res_model">home.home</field>
