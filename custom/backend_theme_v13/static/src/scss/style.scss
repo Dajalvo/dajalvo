@@ -2,10 +2,6 @@
  * License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl). */
 
 
-@font-face {
-    font-family: Roboto;
-    src: url(/backend_theme_v13/static/src/font/Roboto-Regular.ttf)
-}
 
 
 $gray-base:              #000;
@@ -22,8 +18,8 @@ $gray-lighter: lighten($gray-base, 93.5%);
 //$brand-primary: #875a7b;
 //$brand-secondary: #00A09D;
 //------------------------
-$brand-primary: #008DCA;
-$brand-secondary: #5EC269;
+$brand-primary: #0094eb;
+$brand-secondary: #0094eb;
 //------------------------
 
 
