@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name' : 'Invoicing',
+    'name' : 'Accounting',
     'version' : '1.1',
-    'summary': 'Invoices & Payments',
+    'summary': 'Accounting, Invoices & Payments',
     'sequence': 15,
     'description': """
 Invoicing & Payments
