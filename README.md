@@ -1,4 +1,4 @@
 Dajalvo
 -------
 
-Dajalvo es una plataforma desarrlada sobre el código libre Odoo bajo la licencia LGPL v3.
+Dajalvo es una plataforma desarrollada con base en el código libre Odoo bajo la licencia LGPL v3.
